@@ -8,17 +8,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     -   [Screenshot](#screenshot)
     -   [Links](#links)
 -   [My process](#my-process)
-
-    -   [Built with](#built-with)
-
+-   [Built with](#built-with)
 -   [Author](#author)
--   [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![QR Code Component](./screenshot.jpg)
+![Screenshot QR Code Component](/images/screenshot.jpg)
 
 ### Links
 
