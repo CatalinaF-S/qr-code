@@ -24,6 +24,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+h1,
 p {
     color: hsl(218, 44%, 22%);
     font-family: "Outfit", sans-serif;
